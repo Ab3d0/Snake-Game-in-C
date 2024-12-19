@@ -77,6 +77,11 @@ Utiliser la commande suivante pour l'executable :
 ```bash
 make mrproper
 ```
+## Rapport
+Le rapport est disponible ici :  
+[📄 Rapport du projet](./Projet_Fin/Rapport_Snake_SAE11_2023.pdf)
+
+Rapport_Snake_SAE11_2023.pdf
 
 ## Dépendances
 ### Bibliothèque graphique de l'IUT de Fontainebleau
