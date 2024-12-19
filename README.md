@@ -57,12 +57,9 @@ Une fois la [compilation du programme](#compilation) faite, exécuter le program
  -   Affichage du score pendant et après la partie
  -   Affichage du temps pendant et après la partie
 
-### Fonctionnalités additionnelles
 
 #### 4 Modes de jeu différents
-- Mode classique : Affichage d'une seule pomme
 - Mode MultiPomme : Affichage de 5 pommes
-- Mode PartieRapide : Affichage de 25 pommes et accélération du serpent en fonction du score
 - Mode Accélération : Affichage d'une seule pomme et accélération du serpent en fonction du score
 
 #### Menues uniques
