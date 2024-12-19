@@ -79,7 +79,7 @@ make mrproper
 ```
 ## Rapport
 Le rapport est disponible ici :  
-[📄 Rapport du projet](./Projet_Fin/Rapport_Snake_SAE11_2023.pdf)
+[📄 Rapport du projet](./Projet_Final_FIN/Rapport_Snake_SAE11_2023.pdf)
 
 Rapport_Snake_SAE11_2023.pdf
 
