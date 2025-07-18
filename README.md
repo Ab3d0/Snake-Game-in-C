@@ -89,5 +89,4 @@ Rapport_Snake_SAE11_2023.pdf
  -   Auteur : Denis Monnerat (@monnerat)
 
 
-## Note
-18.50
+
